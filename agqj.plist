@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://xxx/xxx.ipa</string>
+                    <string>http://10.252.252.22:7605/ios/smartwork.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.fnst.smartwork</string>
+                <string>com.ivicompanyivi.agqj</string>
                 <key>bundle-version</key>
-                <string>1.0</string>
+                <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>xxx.ipa</string>
+                <string>smartwork.ipa</string>
             </dict>
         </dict>
     </array>
